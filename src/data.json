@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Joker",
+    "image": "/images/joker.jpg",
+    "desc": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+    "alt": "Joker Movie",
+    "ctaText": "Watch",
+    "rating": 9.2
+  },
+  {
+    "id": 2,
+    "title": "The Prestige",
+    "image": "/images/the-prestige.jpg",
+    "desc": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "alt": "The Prestige Movie",
+    "ctaText": "Watch",
+    "rating": 7.9
+  },
+  {
+    "id": 3,
+    "title": "Despicable Me",
+    "image": "/images/despicable-me.jpg",
+    "desc": "When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.",
+    "alt": "Despicable Me Movie",
+    "ctaText": "Watch",
+    "rating": 9.1
+  }
+]

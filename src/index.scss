@@ -1,0 +1,29 @@
+// fonts
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+/* variables
+:root {
+}
+*/
+
+// style
+body {
+  margin: 20px 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 1;
+  font-family: "Roboto", sans-serif;
+  color: #202020;
+  background-color: #fbfbfb;
+}
+
+main {
+  display: flex;
+  max-width: 1200px;
+  margin: auto;
+  justify-content: center;
+}
+
+.mr {
+  margin-right: 20px;
+}
